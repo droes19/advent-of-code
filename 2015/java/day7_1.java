@@ -5,27 +5,6 @@ import java.util.Scanner;
 
 public class day7_1 {
 	public static void main(String[] args) {
-		// int x = 123;
-		// System.out.println("x = " + x);
-		// int y = 456;
-		// System.out.println("y = " + y);
-		// int d = x & y; // bitwise AND
-		// System.out.println("d = " + d);
-		// int e = x | y; // bitwise OR
-		// System.out.println("e = " + e);
-		// int f = x << 2; // bitwise left shift
-		// System.out.println("f = " + f);
-		// int g = y >> 2; // bitwise right shift
-		// System.out.println("g = " + g);
-		// int h = ~x; // bitwise NOT
-		// System.out.println("h = " + h);
-		// int i = (~y) & 0xFFFF; // bitwise NOT
-		// System.out.println("i = " + i);
-		// int j = x ^ y; // bitwise XOR
-		// System.out.println(j);
-
-		// int[][] light = new int[1000][1000];
-		// int res = 0;
 		Map<String, Map<String, String>> wires = new java.util.HashMap<>();
 
 		// use ../input/day6.test for using dummy input
