@@ -33,6 +33,13 @@ This repository contains my solutions for [Advent of Code](https://adventofcode.
 - Day 6: Probably a Fire Hazard (Parts 1 & 2)
 - Day 7: Some Assembly Required (Parts 1 & 2)
 - Day 8: Matchsticks (Parts 1 & 2)
+- Day 9: All in a Single Night (Parts 1 & 2)
+- Day 10: Elves Look, Elves Say (Parts 1 & 2)
+- Day 11: Corporate Policy (Parts 1 & 2)
+- Day 12: JSAbacusFramework.io (Parts 1 & 2)
+- Day 13: Knights of the Dinner Table (Parts 1 & 2)
+- Day 14: Reindeer Olympics (Parts 1 & 2)
+- Day 15: Science for Hungry People (Parts 1 & 2)
 
 ### 2024
 - Day 1: Historian Hysteria (Parts 1 & 2)
